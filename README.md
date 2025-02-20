@@ -21,7 +21,7 @@ Facing rising cyber threats, an IT solutions provider needed a robust strategy t
 <h2>Resources Used For Employee Training:</h2>
 
 <a href="https://www.knowbe4.com" target="_blank"><img src="https://img.shields.io/badge/-KnowBe4-008080?&style=for-the-badge&logo=KnowBe4&logoColor=white" /></a>
-<a href="https://www.sans.org/cyber-security-courses/security-awareness" target="_blank"><img src="https://img.shields.io/badge/-SANS_Security_Awareness-FFD700?&style=for-the-badge&logo=SANS&logoColor=white" /></a>
+<a href="https://www.sans.org/security-awareness-training/?utm_" target="_blank"><img src="https://img.shields.io/badge/-SANS_Security_Awareness-FFD700?&style=for-the-badge&logo=SANS&logoColor=white" /></a>
 <a href="https://www.cofense.com" target="_blank"><img src="https://img.shields.io/badge/-Cofense-D2691E?&style=for-the-badge&logo=Cofense&logoColor=white" /></a>
 
 
